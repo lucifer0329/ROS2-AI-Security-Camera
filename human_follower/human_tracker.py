@@ -26,7 +26,7 @@ class SmartSecurityNode(Node):
         
         # 3. EMAIL CREDENTIAL CONFIGURATION
         self.SENDER_EMAIL = "your_email@gmail.com"
-        self.SENDER_PASSWORD = "your_16_character_app_password"" 
+        self.SENDER_PASSWORD = "your_16_character_app_password" 
         self.RECEIVER_EMAIL = "receiver_email@gmail.com"
         
         # 4. Initialize AI Model (YOLOv8 Nano)
